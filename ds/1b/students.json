@@ -1,0 +1,26 @@
+[
+    {
+        "Roll_No":101,
+        "Name":"jai",
+        "Department":"IT",
+        "Marks":92
+    },
+    {
+        "Roll_No":102,
+        "Name":"sai",
+        "Department":"IT",
+        "Marks":90
+    },
+    {
+        "Roll_No":103,
+        "Name":"navaneeth",
+        "Department":"CSE",
+        "Marks":87
+    },
+    {
+        "Roll_No":104,
+        "Name":"Swayam",
+        "Department":"ECE",
+        "Marks":86
+    }
+]
